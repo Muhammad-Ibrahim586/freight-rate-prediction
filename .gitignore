@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model artifacts
+outputs/models/
+*.joblib
+
+# Generated predictions
+validation_predictions.csv
+december_predictions.csv
+
+# Generated scorer output
+scorer_results/
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Assessment-provided datasets
+data/
+
+# Generated outputs and intermediate files
+outputs/

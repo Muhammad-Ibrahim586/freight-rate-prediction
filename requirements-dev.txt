@@ -1,0 +1,11 @@
+
+# Machine learning
+scikit-learn>=1.5,<2
+joblib>=1.4,<2
+
+# Exploratory data analysis
+jupyter>=1.0,<2
+
+# PDF report generation and inspection
+reportlab>=4,<6
+pypdf>=5,<7
