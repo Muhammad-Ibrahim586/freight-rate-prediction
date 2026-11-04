@@ -1,4 +1,4 @@
-# Freight Rate Prediction — Machine Learning Assessment
+# Freight Rate Prediction
 
 A machine learning solution for predicting freight shipment rates using historical load, route, equipment, distance, weight, and date information.
 
