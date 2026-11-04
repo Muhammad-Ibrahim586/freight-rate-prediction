@@ -194,7 +194,3 @@ reports/assessment_report.pdf
 - Market index, quote signal, and geographic coordinates are excluded because they are not available in the December scenario inputs.
 - Predictions depend on the quality and representativeness of the supplied historical data.
 - Validation performance may differ from performance on future shipment data.
-
----
-
-**Developed as part of the Freight Rate Prediction Machine Learning Assessment.**
